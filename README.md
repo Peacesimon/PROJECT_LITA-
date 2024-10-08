@@ -12,6 +12,8 @@ The primary source of Data
 - Microsoft Excel [Download Here](https://www.microsoft.com)
   1. For Data Cleaning
   2. For Data Analysis
-  3. fpr Data Visualizatiom
+  3. fpr Data Visualization
+     
 - SQL- Structured Query Language
+  
 - Github for Portfolio Building
