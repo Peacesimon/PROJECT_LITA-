@@ -15,5 +15,14 @@ The primary source of Data
   3. fpr Data Visualization
      
 - SQL- Structured Query Language
-  
-- Github for Portfolio Building
+- Github for Portfolio Building 
+
+### Data Cleaning and Preparations
+In the Initial Phase of the Data Cleaning and Preparation, we perform the folowing action:
+1. Data Loaddng and Inspection
+2. Handling Missing Values
+3. Data Cleaning and Formatting
+
+   ### Exploratory Data Analysis
+   EDS involve exploring of the Data to answer some questions about Data such as;
+   
