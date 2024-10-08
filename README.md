@@ -1,2 +1,3 @@
-# PROJECT_LITA-
-This is where I documented my  first project while learning data analysis at Incubator Hub 
+# PROJECT_LITA
+
+### Project Title: Sales Report
