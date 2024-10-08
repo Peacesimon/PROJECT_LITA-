@@ -9,6 +9,9 @@ This Data Analysis aim to generate insights into the sales performance of 5 geop
 The primary source of Data
 
 ### Tools Used
-- Microsoft Excel
+- Microsoft Excel [Download Here](https://www.microsoft.com)
+  1. For Data Cleaning
+  2. For Data Analysis
+  3. fpr Data Visualizatiom
 - SQL- Structured Query Language
 - Github for Portfolio Building
